@@ -1,0 +1,11 @@
+[Modules]
+Docusign
+
+[Docusign]
+RuntimeProgram=BregsDocusign.EXE
+ModuleID=Kofax.docusign
+Description=The Sample module is used to demonstrate the options available when opening and closing batches.
+Version=1.0
+Follow=Verification
+SupportsTableFields=True
+SupportsNonImageFiles=True
